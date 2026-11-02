@@ -1,7 +1,5 @@
 # obsidian-homelab-info
 
-markdown
-
 Obsidian HomeLab
 Prywatna integracja do synchronizacji osobistych notatek
 między Obsidianem a Google Drive przy użyciu wtyczki Drive Bridge.
