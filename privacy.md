@@ -1,5 +1,3 @@
-markdown
-
 Polityka prywatności — Obsidian HomeLab
 Cel integracji
 Obsidian HomeLab to prywatna konfiguracja służąca właścicielowi
